@@ -1,3 +1,8 @@
-### CODE N CHILL 김지한 :computer:
+## CODE N CHILL 김지한 :computer:
 <hr/>
-#### Skills of interest 
+
+### 배우고 있는 것들
+- JAVA
+- ORACLE
+- HTML / CSS
+- JAVASCRIPT
