@@ -1,8 +1,8 @@
 ## CODE N CHILL 김지한 :computer:
 
 
-### 배우고 있는 것들
+### 배우는 것들
 - JAVA
-- ORACLE
+- OracleDB
 - HTML / CSS
-- JAVASCRIPT
+- Javascript
