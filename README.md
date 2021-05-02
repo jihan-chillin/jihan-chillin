@@ -1,5 +1,5 @@
 ## CODE N CHILL 김지한 :computer:
-<hr/>
+
 
 ### 배우고 있는 것들
 - JAVA
