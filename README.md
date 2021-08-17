@@ -4,7 +4,7 @@
 
 #### What i've learned
 - HTML, CSS  
-- js(jQuery), Ajax, React
+- js( jQuery ), Ajax, React
 - JAVA, Servlet/Jsp
 - Spring, SpringBoot
 - Oracle, Sql developer 
