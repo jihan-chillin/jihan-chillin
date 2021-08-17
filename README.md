@@ -5,7 +5,7 @@
 ### What i've learned
 - HTML, CSS  
 - js( jQuery ), Ajax, React
-- JAVA, Servlet/Jsp
+- Java, Servlet/Jsp
 - Spring, SpringBoot
 - Oracle, Sql developer 
 - Maven, MyBatis
