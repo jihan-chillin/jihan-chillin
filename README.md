@@ -3,9 +3,9 @@
 ### :seedling: 자라나는 새싹 FE개발자 :seedling:
 
 ### What i've learned
-- HTML, CSS  
-- js( jQuery ), Ajax, React
+- HTML, CSS, js
+- React
 - Java, Servlet/Jsp
 - Spring, SpringBoot
-- Oracle, Sql developer 
+- Oracle 
 - Maven, MyBatis
