@@ -4,7 +4,7 @@
 
 ### What i've learned
 - Html, css, js
-- Vue.js
+- React
 - Java, Servlet/Jsp
 - Spring, SpringBoot
 - Oracle 
