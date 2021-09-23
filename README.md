@@ -5,7 +5,7 @@
 ### What i've learned
 - Html, css, js
 - React
-- Java, Servlet/Jsp
+- Java, Thymeleaf
+- Servlet/Jsp
 - Spring, SpringBoot
 - Oracle 
-- Maven, MyBatis
