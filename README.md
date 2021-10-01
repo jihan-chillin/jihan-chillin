@@ -3,7 +3,7 @@
 ### :seedling: 자라나는 새싹 FE개발자 :seedling:
 
 ### What i've learned
-- Html, css, js
+- Html, css, js, jQuery
 - React
 - Java, Thymeleaf
 - Servlet/Jsp
