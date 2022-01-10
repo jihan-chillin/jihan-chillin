@@ -2,10 +2,8 @@
 
 ### :seedling: 자라나는 새싹 FE개발자 :seedling:
 
-### What i've learned
-- Html, css, js, jQuery
+### What I intrested in
+- TypeScript
 - React
-- Java, Thymeleaf
-- Servlet/Jsp
-- Spring, SpringBoot
-- Oracle 
+- next.js / express
+- GraphQL 
