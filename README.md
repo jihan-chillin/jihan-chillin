@@ -1,9 +1,8 @@
 ## CODE N CHILL 김지한입니다 :computer:
 
-### :seedling: 자라나는 새싹 FE개발자 :seedling:
-
-### What I intrested in
+### What I've intrested in
+- React(next.js)
+- Redux
 - TypeScript
-- React
-- next.js / express
 - GraphQL 
+- Lay the ground work (html, css, javscript, esc)
