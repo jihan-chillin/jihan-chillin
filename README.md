@@ -5,4 +5,5 @@
 - Redux
 - TypeScript
 - GraphQL 
+- Node.js
 - Lay the ground work (html, css, javscript, esc)
