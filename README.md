@@ -6,4 +6,4 @@
 - TypeScript
 - GraphQL 
 - Node.js
-- Lay the ground work (html, css, javscript, esc)
+- Lay the ground work (html, css, javscript, etc)
