@@ -1,6 +1,6 @@
 ## CODE N CHILL 김지한입니다 :computer:
 
-### What I've intrested in
+### What I've intrested in are..
 - React(next.js)
 - Redux
 - TypeScript
