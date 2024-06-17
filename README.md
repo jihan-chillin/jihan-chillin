@@ -3,7 +3,6 @@
 <h2> Contact Me </h2>
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kojub.tistory.com/)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/0ee5b510e16248ab9b80c46bd0b0fd84?p=1013f31ab84845fba65241ae3de22164&pm=)
 
 <h2> Tech Stack </h2>
 
